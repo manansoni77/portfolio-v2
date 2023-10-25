@@ -48,6 +48,13 @@ export const PROJECTS = [
     github: "https://github.com/manansoni77/Urban-Dhaba",
   },
   {
+    name: "Hangman",
+    description:
+      "Project Description, some text here that can accurately describe the project...",
+    img: "img.jpg",
+    github: "https://github.com/manansoni77/Hangman",
+  },
+  {
     name: "CS50 Finance",
     description:
       "Project Description, some text here that can accurately describe the project...",
